@@ -1,3 +1,5 @@
+![Screenshot 2024-06-20 021736](https://github.com/huycuuvan/PowerBi/assets/116445067/2dbe34dd-4ead-45a9-8405-875ab0f89e67)
+
 1.	Power BI Dashboard Explanation
 •  Slicers: These allow users to filter data based on Region, State, Store, and Date. This enables focused analysis on specific subsets of the data.
 •  Cards: Display key metrics such as Sum of Revenue, Sum of Profit, and Profit Percentage, providing at-a-glance insights into overall performance.
